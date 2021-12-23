@@ -23,12 +23,12 @@
 
 ## Features
 
-- Authentication (login/register with email-password)
-- Upload images for display pictures of contacts
-- Add/update/delete contacts & change display picture
-- Add/update/delete profile links of individual contacts
-- Search contacts by name or profile links
-- Toast notifications for actions - adding/updating/deleting contact, or welcome message etc.
+- Authentication (email-password login/registration) 
+- Upload photographs for contact pictures to be shown. 
+- Change the display picture and add/update/delete contacts. 
+- Individual contact profile links can be added, updated, or deleted. 
+- Contacts can be found using their names or profile links. 
+- Toast notifications for actions such as adding, updating, or removing contacts, or sending a welcome message, among others.
 
 
 ## Usage

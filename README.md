@@ -2,11 +2,11 @@
 
 #### Front-end
 
-- [ReactJS](https://reactjs.org/) as Frontend framework
-- [useState hook & props](https://reactjs.org/docs/hooks-state.html) for For state management
-- [React Router](https://reactrouter.com/) for general routing & navigation
-- [Semantic-UI w/ normal CSS for customisations](https://react.semantic-ui.com/) for UI library
-- [React toast notifications](https://jossmac.github.io/react-toast-notifications/) for For toast notifications 
+- [ReactJS](https://reactjs.org/) - Frontend framework
+- [useState hook & props](https://reactjs.org/docs/hooks-state.html) - for the purpose of state administration
+- [React Router](https://reactrouter.com/) - general navigation and routing
+- [Semantic-UI w/ normal CSS for customisations](https://react.semantic-ui.com/) for the UI library
+- [React toast notifications](https://jossmac.github.io/react-toast-notifications/) to receive toast notifications
 
 #### Back-end
 

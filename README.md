@@ -1,4 +1,4 @@
-## SPA application
+## SPA application - Project 586
 
 #### Front-end
 
@@ -19,15 +19,6 @@
 - [Validator.js] - For JSON data validation
 - [Mongoose Unique Validator]- Plugin for improved error handling of Mongoose schema's unique fields.
 - [Dotenv]- Loading environment variables from a.env file
-
-## Features
-
-- Authentication (email-password login/registration) 
-- Upload photographs for contact pictures to be shown. 
-- Change the display picture and add/update/delete contacts. 
-- Individual contact profile links can be added, updated, or deleted. 
-- Contacts can be found using their names or profile links. 
-- Toast notifications for actions such as adding, updating, or removing contacts, or sending a welcome message, among others.
 
 
 ## Usage

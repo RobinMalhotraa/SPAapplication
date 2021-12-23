@@ -2,24 +2,24 @@
 
 #### Front-end
 
-- [ReactJS](https://reactjs.org/) - Frontend framework
-- [useState hook & props](https://reactjs.org/docs/hooks-state.html) - for the purpose of state administration
-- [React Router](https://reactrouter.com/) - general navigation and routing
-- [Semantic-UI w/ normal CSS for customisations](https://react.semantic-ui.com/) for the UI library
-- [React toast notifications](https://jossmac.github.io/react-toast-notifications/) to receive toast notifications
+- [ReactJS] - Frontend framework
+- [useState hook & props] - for the purpose of state administration
+- [React Router]- general navigation and routing
+- [Semantic-UI w/ normal CSS for customisations]for the UI library
+- [React toast notifications] to receive toast notifications
 
 #### Back-end
 
-- [Node.js](https://nodejs.org/en/) for JS runtime environment
-- [Express.js](https://expressjs.com/) for The Node.js framework simplifies and accelerates the process of developing APIs.
-- [MongoDB](https://www.mongodb.com/) for Document-based data is stored in a database.
-- [Mongoose](https://mongoosejs.com/) - Node.js object modelling for MongoDB
-- [Cloudinary](https://cloudinary.com/) - For image uploading and other related APIs
-- [JSON Web Token](https://jwt.io/) - A protocol for securing and authenticating HTTP requests.
-- [Bcrypt.js](https://www.npmjs.com/package/bcryptjs) - For password hashing
-- [Validator.js](https://www.npmjs.com/package/validator) - For JSON data validation
-- [Mongoose Unique Validator](https://www.npmjs.com/package/mongoose-unique-validator) - Plugin for improved error handling of Mongoose schema's unique fields.
-- [Dotenv](https://www.npmjs.com/package/dotenv) - Loading environment variables from a.env file
+- [Node.js]for JS runtime environment
+- [Express.js]for The Node.js framework simplifies and accelerates the process of developing APIs.
+- [MongoDB] for Document-based data is stored in a database.
+- [Mongoose] - Node.js object modelling for MongoDB
+- [Cloudinary] - For image uploading and other related APIs
+- [JSON Web Token]- A protocol for securing and authenticating HTTP requests.
+- [Bcrypt.js] - For password hashing
+- [Validator.js] - For JSON data validation
+- [Mongoose Unique Validator]- Plugin for improved error handling of Mongoose schema's unique fields.
+- [Dotenv]- Loading environment variables from a.env file
 
 ## Features
 

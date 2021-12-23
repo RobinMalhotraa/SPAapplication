@@ -2,11 +2,10 @@
 
 #### Front-end
 
-- [ReactJS] - Frontend framework
-- [useState hook & props] - for the purpose of state administration
-- [React Router]- general navigation and routing
-- [Semantic-UI w/ normal CSS for customisations]for the UI library
-- [React toast notifications] to receive toast notifications
+- ReactJS - Frontend framework
+- React Router - general navigation and routing
+- Semantic-UI for the UI library
+- React toast notifications to receive toast notifications
 
 #### Back-end
 

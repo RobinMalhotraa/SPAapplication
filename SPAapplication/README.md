@@ -21,16 +21,9 @@
 - [Mongoose Unique Validator](https://www.npmjs.com/package/mongoose-unique-validator) - Plugin for better error handling of unique fields within Mongoose schema
 - [Dotenv](https://www.npmjs.com/package/dotenv) - To load environment variables from a .env file
 
-## Features
-
-- Authentication (login/register with email-password)
 
 ## Usage
 
-Notes:
-
-- For image API, make account at cloudinary.com & get API keys from account dashboard.
-- For upload preset usage, if you want to organize images separately at cloudinary.com, you have to create it from account settings first. If you don't want to, just don't put anything or use .env key - `UPLOAD_PRESET`.
 
 #### Env variable:
 

@@ -1,10 +1,6 @@
-# Profile Store | MERN
-
-A MERN stack app for storing profile links of people you admire, at one place.
+SPA application
 
 ## Demo
-
-[Deployed on Netlify (front-end) & Heroku (back-end)](https://profile-store.netlify.app)
 
 ## Built using
 
@@ -32,33 +28,6 @@ A MERN stack app for storing profile links of people you admire, at one place.
 ## Features
 
 - Authentication (login/register with email-password)
-- Upload images for display pictures of contacts
-- Add/update/delete contacts & change display picture
-- Add/update/delete profile links of individual contacts
-- Search contacts by name or profile links
-- Toast notifications for actions - adding/updating/deleting contact, or welcome message etc.
-- Dark mode toggle w/ local storage save
-- Responsive UI for all screens
-
-## Screenshots
-
-#### Desktop/Tablet Home
-
-![Home](https://github.com/amand33p/profile-store-mern/blob/master/screenshots/desktop-tablet.png)
-
-#### Auth Forms
-
-![Auth Forms](https://github.com/amand33p/profile-store-mern/blob/master/screenshots/auth-forms.png)
-
-#### Pop-up windows (modals)
-
-![Pop-up windows](https://github.com/amand33p/profile-store-mern/blob/master/screenshots/modals.png)
-
-#### Mobile UI
-
-![Mobile UI - 1](https://github.com/amand33p/profile-store-mern/blob/master/screenshots/mobile-ui-1.png)
-
-![Mobile UI - 2](https://github.com/amand33p/profile-store-mern/blob/master/screenshots/mobile-ui-2.png)
 
 ## Usage
 

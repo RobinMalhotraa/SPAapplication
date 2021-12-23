@@ -1,8 +1,4 @@
-SPA application
-
-## Demo
-
-## Built using
+## SPA application
 
 #### Front-end
 

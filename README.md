@@ -2,24 +2,24 @@
 
 #### Front-end
 
-- [ReactJS](https://reactjs.org/) - Frontend framework
-- [useState hook & props](https://reactjs.org/docs/hooks-state.html) - For state management
-- [React Router](https://reactrouter.com/) - For general routing & navigation
-- [Semantic-UI w/ normal CSS for customisations](https://react.semantic-ui.com/) - UI library
-- [React toast notifications](https://jossmac.github.io/react-toast-notifications/) - For toast notifications 
+- [ReactJS](https://reactjs.org/) as Frontend framework
+- [useState hook & props](https://reactjs.org/docs/hooks-state.html) for For state management
+- [React Router](https://reactrouter.com/) for general routing & navigation
+- [Semantic-UI w/ normal CSS for customisations](https://react.semantic-ui.com/) for UI library
+- [React toast notifications](https://jossmac.github.io/react-toast-notifications/) for For toast notifications 
 
 #### Back-end
 
-- [Node.js](https://nodejs.org/en/) - Runtime environment for JS
-- [Express.js](https://expressjs.com/) - Node.js framework, makes process of building APIs easier & faster
-- [MongoDB](https://www.mongodb.com/) - Database to store document-based data
-- [Mongoose](https://mongoosejs.com/) - MongoDB object modeling for Node.js
-- [Cloudinary](https://cloudinary.com/) - For image uploading & related API
-- [JSON Web Token](https://jwt.io/) - A standard to secure/authenticate HTTP requests
-- [Bcrypt.js](https://www.npmjs.com/package/bcryptjs) - For hashing passwords
-- [Validator.js](https://www.npmjs.com/package/validator) - For validation of JSON data
-- [Mongoose Unique Validator](https://www.npmjs.com/package/mongoose-unique-validator) - Plugin for better error handling of unique fields within Mongoose schema
-- [Dotenv](https://www.npmjs.com/package/dotenv) - To load environment variables from a .env file
+- [Node.js](https://nodejs.org/en/) for JS runtime environment
+- [Express.js](https://expressjs.com/) for The Node.js framework simplifies and accelerates the process of developing APIs.
+- [MongoDB](https://www.mongodb.com/) for Document-based data is stored in a database.
+- [Mongoose](https://mongoosejs.com/) - Node.js object modelling for MongoDB
+- [Cloudinary](https://cloudinary.com/) - For image uploading and other related APIs
+- [JSON Web Token](https://jwt.io/) - A protocol for securing and authenticating HTTP requests.
+- [Bcrypt.js](https://www.npmjs.com/package/bcryptjs) - For password hashing
+- [Validator.js](https://www.npmjs.com/package/validator) - For JSON data validation
+- [Mongoose Unique Validator](https://www.npmjs.com/package/mongoose-unique-validator) - Plugin for improved error handling of Mongoose schema's unique fields.
+- [Dotenv](https://www.npmjs.com/package/dotenv) - Loading environment variables from a.env file
 
 ## Features
 

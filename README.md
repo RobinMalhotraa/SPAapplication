@@ -6,7 +6,7 @@
 - [useState hook & props](https://reactjs.org/docs/hooks-state.html) - For state management
 - [React Router](https://reactrouter.com/) - For general routing & navigation
 - [Semantic-UI w/ normal CSS for customisations](https://react.semantic-ui.com/) - UI library
-- [React toast notifications](https://jossmac.github.io/react-toast-notifications/) - For toast notifications (duh :P)
+- [React toast notifications](https://jossmac.github.io/react-toast-notifications/) - For toast notifications 
 
 #### Back-end
 
@@ -20,6 +20,15 @@
 - [Validator.js](https://www.npmjs.com/package/validator) - For validation of JSON data
 - [Mongoose Unique Validator](https://www.npmjs.com/package/mongoose-unique-validator) - Plugin for better error handling of unique fields within Mongoose schema
 - [Dotenv](https://www.npmjs.com/package/dotenv) - To load environment variables from a .env file
+
+## Features
+
+- Authentication (login/register with email-password)
+- Upload images for display pictures of contacts
+- Add/update/delete contacts & change display picture
+- Add/update/delete profile links of individual contacts
+- Search contacts by name or profile links
+- Toast notifications for actions - adding/updating/deleting contact, or welcome message etc.
 
 
 ## Usage
